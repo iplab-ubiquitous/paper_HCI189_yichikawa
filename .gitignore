@@ -1,0 +1,16 @@
+figures/名称未設定2.*
+figures/名称未設定2/*
+.texpadtmp/*
+*.dvi
+*.pdf
+bibsample.bib
+ebibsample.bib
+ipsj.cls
+ipsjpref.sty
+ipsjsort-e.bst
+ipsjsort.bst
+ipsjtech.sty
+ipsjunsrt-e.bst
+ipsjunsrt.bst
+read me.txt
+tech-jsample.tex
