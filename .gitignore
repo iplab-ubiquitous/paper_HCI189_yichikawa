@@ -3,6 +3,7 @@ figures/名称未設定2/*
 .texpadtmp/*
 *.dvi
 *.pdf
+!/figures/*.pdf
 bibsample.bib
 ebibsample.bib
 ipsj.cls
