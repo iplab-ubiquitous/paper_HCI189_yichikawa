@@ -1,0 +1,64 @@
+\begin{thebibliography}{10}
+
+\bibitem{Fan:2017:ESF:3123021.3123043}
+Fan, M., Ding, Y., Shen, F., You, Y. and Yu, Z.: An Empirical Study of Foot
+  Gestures for Hands-occupied Mobile Interaction, {\em Proceedings of the 2017
+  ACM International Symposium on Wearable Computers}, ISWC '17, New York, NY,
+  USA, ACM, pp.\ 172--173 (online), \doi{10.1145/3123021.3123043} (2017).
+
+\bibitem{Fukahori:2015:ESF:2702123.2702308}
+Fukahori, K., Sakamoto, D. and Igarashi, T.: Exploring Subtle Foot
+  Plantar-based Gestures with Sock-placed Pressure Sensors, {\em Proceedings of
+  the 33rd Annual ACM Conference on Human Factors in Computing Systems}, CHI
+  '15, New York, NY, USA, ACM, pp.\ 3019--3028 (online),
+  \doi{10.1145/2702123.2702308} (2015).
+
+\bibitem{1698228}
+English, W.~K., Engelbart, D.~C. and Berman, M.~L.: Display-Selection
+  Techniques for Text Manipulation, {\em IEEE Transactions on Human Factors in
+  Electronics},  Vol.~HFE-8, No.~1, pp.\ 5--15 (online),
+  \doi{10.1109/THFE.1967.232994} (1967).
+
+\bibitem{Pearson:1986:MMD:22627.22392}
+Pearson, G. and Weiser, M.: Of Moles and Men: The Design of Foot Controls for
+  Workstations, {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '86, New York, NY, USA, ACM, pp.\ 333--339 (online),
+  \doi{10.1145/22627.22392} (1986).
+
+\bibitem{Pearson:1988:EEP:57167.57169}
+Pearson, G. and Weiser, M.: Exploratory Evaluation of a Planar Foot-operated
+  Cursor-positioning Device, {\em Proceedings of the SIGCHI Conference on Human
+  Factors in Computing Systems}, CHI '88, New York, NY, USA, ACM, pp.\ 13--18
+  (online), \doi{10.1145/57167.57169} (1988).
+
+\bibitem{Horodniczy:2017:FHE:3025453.3025625}
+Horodniczy, D. and Cooperstock, J.~R.: Free the Hands! Enhanced Target
+  Selection via a Variable-Friction Shoe, {\em Proceedings of the 2017 CHI
+  Conference on Human Factors in Computing Systems}, CHI '17, New York, NY,
+  USA, ACM, pp.\ 255--259 (online), \doi{10.1145/3025453.3025625} (2017).
+
+\bibitem{weko_196526_1}
+{市川佑,志築文太郎,高橋伸}\：距離センサを用いた膝の動きによるカーソル操作手法，第81回全国大会講演論文集，Vol.~2019,
+  No.~1, pp.\ 271--272 (2019).
+
+\bibitem{velloso:hal-01599657}
+Velloso, E., Alexander, J., Bulling, A. and Gellersen, H.: {Interactions Under
+  the Desk: A Characterisation of Foot Movements for Input in a Seated
+  Position}, {\em {15th Human-Computer Interaction (INTERACT)}}, Human-Computer
+  Interaction -- INTERACT 2015, Vol.~LNCS-9296, No.~Part I, Bamberg, Germany,
+  pp.\ 384--401 (online), \doi{10.1007/978-3-319-22701-6\_29} (2015).
+
+\bibitem{Gobel:2013:GFI:2468356.2479610}
+G\"{o}bel, F., Klamka, K., Siegel, A., Vogt, S., Stellmach, S. and Dachselt,
+  R.: Gaze-supported Foot Interaction in Zoomable Information Spaces, {\em CHI
+  '13 Extended Abstracts on Human Factors in Computing Systems}, CHI EA '13,
+  New York, NY, USA, ACM, pp.\ 3059--3062 (online),
+  \doi{10.1145/2468356.2479610} (2013).
+
+\bibitem{Rajanna:2016:GFI:2876456.2876462}
+Rajanna, V.~D.: Gaze and Foot Input: Toward a Rich and Assistive Interaction
+  Modality, {\em Companion Publication of the 21st International Conference on
+  Intelligent User Interfaces}, IUI '16 Companion, New York, NY, USA, ACM, pp.\
+  126--129 (online), \doi{10.1145/2876456.2876462} (2016).
+
+\end{thebibliography}
